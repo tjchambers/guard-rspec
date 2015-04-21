@@ -4,7 +4,7 @@
 require "pathname"
 require "fileutils"
 
-require "rspec"
+#require "rspec"
 require "rspec/core/formatters/base_formatter"
 
 module Guard
